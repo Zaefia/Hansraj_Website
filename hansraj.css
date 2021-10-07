@@ -92,7 +92,7 @@ a.headlinks:hover, a.footlinks:hover{
   text-decoration: none;
 }
 
-li{
+.socials-list{
   display: inline;
   padding: 10px;
 }
